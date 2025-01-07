@@ -5,7 +5,8 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "icon.png",
+            "src": "./icon.png",
+            "sizes": "204x204",
             "type": "image/png"
         }
     ]
