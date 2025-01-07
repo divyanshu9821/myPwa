@@ -1,11 +1,11 @@
 {
     "name": "Mak Fresh",
     "short_name": "makfresh",
-    "start_url": "/",
+    "start_url": "myPwa/",
     "display": "standalone",
     "icons": [
         {
-            "src": "./icon.png",
+            "src": "myPwa/icon.png",
             "sizes": "204x204",
             "type": "image/png"
         }
